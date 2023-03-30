@@ -1,0 +1,60 @@
+/* Estilos generales */
+body {
+  background-image: url("https://img.freepik.com/vector-gratis/fondo-textura-acuarela-decorativa-verde-suave_1055-8856.jpg?w=740&t=st=1680202995~exp=1680203595~hmac=d720db0b6515612dd8fb28c9c5b8316ec217e64f1f0450d73acd6112af69ca6f");
+ background-size: cover;
+  font-family: Arial, sans-serif;
+    margin: 50px;
+    padding: 0;
+  }
+  
+  /* Estilos para la imagen de perfil */
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+  }
+  
+  /* Estilos para los títulos */
+  h1, h2 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Estilos para la descripción personal */
+  p {
+    font-size: 18px;
+    text-align: justify;
+    margin: 20px;
+  }
+  
+  /* Estilos para las listas */
+  ul, ol {
+    font-size: 18px;
+    margin: 20px;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para los artistas de interés */
+  ol {
+    
+    font-style: italic;
+  }
+  
+  /* Estilos para los gustos y preferencias */
+  ul {
+    list-style-type: square;
+  }
+  h2 {
+    font-size: 26px;
+  }
+  img:hover {
+    width: 250px; 
+    height: 250px;
+}
